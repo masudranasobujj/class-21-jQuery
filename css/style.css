@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Seymour+One&display=swap');
+
+
+
+/*7. right to left move*/
+/*.setting{
+	position: fixed;
+    top: 200px;
+    right: -162px;
+    transition: all 0.3s ease;
+}
+.setting i{
+	display: block;
+    transform: translate(-22px, 0px);
+}
+
+.setting button{
+	height: 50px;
+    width: 50px;
+    padding: 0px;
+}
+.setting button img{
+	object-fit: cover;
+	height: 40px;
+	width: 40px;
+}
+.toleft{
+	right: 15px;
+}*/
+
+
+
+/*8. click to change bg image*/
+
+/*.bnr{
+	height: 1000px;
+	width: 100%;
+	object-fit: contain;
+	background-repeat: no-repeat;
+}*/
+
+
+
+
+
+
+
+/*99999999999999999999999999999*/
+
+/*.mug{
+	position: relative;
+}
+.mug span{
+	position: absolute;
+    left: 225px;
+    top: 56%;
+    font-size: 30px;
+}
+
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Seymour One', sans-serif;*/
+
+/*999999999999999999999999999999*/
+
+
